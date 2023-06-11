@@ -39,7 +39,7 @@ print("no. of columns",len(df.axes[1]))
 
 ## OUTPUT:
 
-
+![image](https://github.com/Harinimuthu17/Read-from-CSV/assets/130278614/aecbd981-a0cd-4a4f-a886-593f1d6f6abd)
 
 
 ## RESULT:
